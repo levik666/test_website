@@ -41,9 +41,26 @@
               <!-- here you can add your content for tab-content -->
               <template slot="tab-pane-1">
                 <a href="#"> <h4>1. Для початківців</h4></a>
-                Collaboratively administrate empowered markets via plug-and-play
-                networks. Dynamically procrastinate B2C users after installed
-                base benefits.<br />
+                SQL для аналізу даних – це курс для початківців, який навчить вас усього, що вам потрібно знати, щоб почати використовувати SQL для запиту даних. <br />
+                Я збираюся викладати це так, як навчився, працюючи у великих технологічних компаніях. <br />
+                Я буду використовувати інструменти, дуже схожі на ті, які ви будете використовувати в таких компаніях, як EPAM, Ciklum і інші.<br />
+                Що таке SQL. <br />
+                Розглянемо такі оператори: <br />
+                - Select and From <br />
+                - Where and Limit <br />
+                - And, or, not <br />
+                - Like <br />
+                - In operator <br />
+                - is null <br />
+                - Order By <br />
+                - Count, min, max, sum, avg <br />
+                - Group by <br />
+                - Having <br />
+                - Distinct <br />
+                - Union <br />
+                - Join <br />
+
+                Кожен із цих прикладів ми буде розповідати як теорію так і практичні моменти. <br />
               </template>
               <template slot="tab-pane-2">
                 <div class="tim-typo"><h4>План:</h4></div>

@@ -40,17 +40,18 @@
             >
               <!-- here you can add your content for tab-content -->
               <template slot="tab-pane-1">
-                <a href="#/trainings/1" > <h4>1. Для початківців</h4></a>
-                Collaboratively administrate empowered markets via plug-and-play
-                networks. Dynamically procrastinate B2C users after installed base
-                benefits.<br />
+                <a href="#/trainings/1" > <h4>1. Для початківців </h4></a>
+                SQL для аналізу даних – це курс для початківців, який навчить вас усього, що вам потрібно знати, щоб почати використовувати SQL для запиту даних. <br />
+                Я збираюся викладати це так, як навчився, працюючи у великих технологічних компаніях. <br />
+                Я буду використовувати інструменти, дуже схожі на ті, які ви будете використовувати в таких компаніях, як EPAM, Ciklum і інші.<br />
                 <a href="#"> детальніше</a><br />
               </template>
               <template slot="tab-pane-1">
-                <a href="#"> <h4>2. Для регулярного використання і не тільки</h4></a>
-                Collaboratively administrate empowered markets via plug-and-play
-                networks. Dynamically procrastinate B2C users after installed base
-                benefits.<br />
+                <a href="#"> <h4>2. Теми для поглибленого знання</h4></a>
+                SQL optimization <br />
+                Windows functions <br />
+                Query tuning <br />
+                <br />
                 <a href="#"> детальніше</a><br />
               </template>
               <template slot="tab-pane-2">
